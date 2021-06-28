@@ -6,6 +6,8 @@ authors = ["odai1990 <odai22odai78@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+requests = "^2.25.1"
+beautifulsoup4 = "^4.9.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
